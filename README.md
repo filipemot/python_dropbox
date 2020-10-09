@@ -12,3 +12,5 @@ Nesse artigo aborda a integração Python com dropbox, mostrando como é feita a
 - share_link - Link de Compartilhamento
 - remove_file - Remove um arquivo
 
+# Artigo completo
+https://medium.com/p/integra%C3%A7%C3%A3o-dropbox-com-python-b16e3e809931
