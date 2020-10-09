@@ -1,4 +1,4 @@
-### Introdução
+# Introdução
 
 Nesse artigo aborda a integração Python com dropbox, mostrando como é feita a configuração e no depois alguns métodos implementados para a utilização dessa integração.
 
